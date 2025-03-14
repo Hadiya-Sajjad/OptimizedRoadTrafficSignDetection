@@ -20,8 +20,8 @@ To run the project, ensure you have the required dependencies installed.
 ### Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your_username/your_repository.git
-   cd your_repository
+   git clone https://github.com/Hadiya-Sajjad/OptimizedRoadTrafficSignDetection.git
+   cd OptimizedRoadTrafficSignDetection
    ```
 2. Install dependencies:
    ```sh
